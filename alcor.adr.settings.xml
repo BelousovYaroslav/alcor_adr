@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Settings>
+  <COM_Port>/dev/ttyUSB0</COM_Port>
+  <COM_Baudrate>115200</COM_Baudrate>
+  <COM_DataBits>8</COM_DataBits>
+  <COM_Parity>None</COM_Parity>
+  <COM_StopBits>1</COM_StopBits>
+</Settings>
